@@ -22,7 +22,7 @@ style='font-size:12.0pt;font-family:"Times New Roman",serif'>The tweaks can be e
 - Limited Resting (only once per 24 hours) https://www.dropbox.com/s/xhox98i4vl9sklm/LimitedResting.zip?dl=1
 <br>
 <br>
-Note: Only install the following mods in case this really happens while playing:
+Note: Only install the following mods in case this really happens while playing:<br>
 - Fix game lag (may appear in long games with many mods)  https://www.dropbox.com/s/nj5sazcapamdmis/EE_Lagfix.zip?dl=1
 - Fix for black Worldmap https://www.dropbox.com/s/s77ee5r8k65eotu/setup-bp-bgt_worldmap_pvrz.7z?dl=1 
 - Fix CtD with injured NPCs during rest https://www.dropbox.com/s/i1s1xwwzkswsvic/RestFix.zip?dl=1
@@ -30,9 +30,6 @@ Note: Only install the following mods in case this really happens while playing:
  <br>
  <br>
 
-Installation guidance:
-
-Install the mod after all other mods which add banters to the game, i.e. right before installing EET_end.
 <br>
 &nbsp;</span></p>
 
