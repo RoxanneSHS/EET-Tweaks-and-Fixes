@@ -20,6 +20,7 @@ style='font-size:12.0pt;font-family:"Times New Roman",serif'>The tweaks can be e
 - Move Items into SoA https://www.dropbox.com/s/ryb76gshhvkax3j/EETMoveItemsSoA.zip?dl=1
 - Send NPCs to an Inn (patch) https://www.dropbox.com/s/km6ly9tlexfvuv2/SendNPCInnEET.zip?dl=1
 - Limited Resting (only once per 24 hours) https://www.dropbox.com/s/xhox98i4vl9sklm/LimitedResting.zip?dl=1
+- Keyring (for the orderly)  https://www.dropbox.com/s/qmc3ufhbllddkwl/keyring.zip?dl=1
 <br>
 <br>
 Note: Only install the following mods in case this really happens while playing:<br>
